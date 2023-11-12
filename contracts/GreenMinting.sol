@@ -1,8 +1,7 @@
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.9;
+pragma solidity ^0.8.17;
 
 /// @title Minting contract for GreenToken
-/// @author Adewale Iyanuoluwa Isaac
 
 
 /// @dev This is an ERC20 interface 
