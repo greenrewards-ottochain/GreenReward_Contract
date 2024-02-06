@@ -21,7 +21,7 @@ const config: HardhatUserConfig = {
     },
     //for ottochain mainnet
     'ottochain-mainnet': {
-      url: 'https://gateway.mainnet.octopus.network/ottochain/m4k5urt9h33dpbhgsp4lqxemo6naeihz',
+      url: 'https://gateway.mainnet.octopus.network/eth/otto/andk2nmw198f7on2',
       accounts: [process.env.WALLET_KEY as string]
     },
   },
